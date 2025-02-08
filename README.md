@@ -11,7 +11,7 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play ag
 ## 📸 Screenshot
 ![Game Screenshot](rps-screenshots/Screenshot-1.png)
 
-![Game Screenshot](rps-screenshots/Screenshot-1.png)
+![Game Screenshot](rps-screenshots/Screenshot-2.png)
 
 ## 🛠️ Technologies Used
 HTML – For the game structure
